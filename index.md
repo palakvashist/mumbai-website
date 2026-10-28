@@ -15,5 +15,5 @@ Leave a blank line between each paragraph.
 ![Bombay cotton mill](images/mill.jpg)
 *A cotton mill in Bombay, around 1890.*
 
-![Bombay cotton mill](images/mill.jpg)
+![Bombay cotton mill](images/mill2.jpg)
 *A second cotton mill in Bombay, around 1890.*
