@@ -11,3 +11,9 @@ A spatial history of your place and the places it was tied to.
 
 Paste your essay here as normal paragraphs.
 Leave a blank line between each paragraph.
+
+![Bombay cotton mill](images/mill.jpg)
+*A cotton mill in Bombay, around 1890.*
+
+![Bombay cotton mill](images/mill.jpg)
+*A second cotton mill in Bombay, around 1890.*
